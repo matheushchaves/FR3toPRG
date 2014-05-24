@@ -1,0 +1,30 @@
+-I"C:\bcc582\include;C:\FWH.13.02\include;C:\xhb121\include;;" +
+-L"C:\bcc582\lib;C:\bcc582\lib\psdk;C:\FWH.13.02\lib;C:\xhb121\lib;;;C:\BCC582\LIB;C:\BCC582\lib\psdk;C:\FWH.13.02\LIB;C:\XHB121\lib;;" +
+-aa +
+-Gn -Tpe -s +
+c0w32.obj +    
+"C:\des\FR3toPRG\FR3toPRG.obj", + 
+"C:\des\FR3toPRG\F3toPRG.EXE", +   
+"C:\des\FR3toPRG\F3toPRG.map", +   
+FiveHx.lib FiveHC.lib +
+rtl.lib +      
+vm.lib +       
+gtgui.lib + 
+lang.lib +     
+macro.lib +    
+rdd.lib +      
+codepage.lib + 
+dbfntx.lib +   
+dbffpt.lib +   
+hbsix.lib +    
+common.lib +   
+pp.lib +       
+"C:\xhb121\lib\pcrepos.lib" +  
+"C:\bcc582\Lib\PSDK\psapi.lib" +  
+cw32.lib +     
+import32.lib + 
+nddeapi.lib +
+iphlpapi.lib +
+rasapi32.lib +
+,
+"C:\des\FR3toPRG\FR3toPRG.RES" 

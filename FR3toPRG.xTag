@@ -1,0 +1,13 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 14/8/2013 11:33:41                 #
+#                                              #
+### Standard xDev TagList - Layout v1.5 ########
+-->
+<taglist>
+   <tag filename="C:\des\FR3toPRG\FR3toPRG.prg" name="EscreveFr3" args="<FileLocal> " scope="PUBLIC" type="ptFunction" line="101">
+   <tag filename="C:\des\FR3toPRG\FR3toPRG.prg" name="Main" args=" " scope="PUBLIC" type="ptFunction" line="2">
+   <tag filename="C:\des\FR3toPRG\FR3toPRG.prg" name="log10" args=" " scope="PUBLIC" type="ptFunction" line="281">
+   <tag filename="C:\des\FR3toPRG\FR3toPRG.prg" name="TextoMemo" args="<sTexto> " scope="PUBLIC" type="ptFunction" line="274">
+</taglist>
